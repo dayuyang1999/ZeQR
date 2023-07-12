@@ -86,7 +86,7 @@ conda activate zeqr
       3. For CAsT-21, because the run files submitted by many teams only contains the docid(no passage id). The organizer decided to only evaluate on docid. `trec-cast-tool` provide a `docize.py` script to transform passage id to docid. You need to do this before evaluation.
    2. Option2: directly use the `.run` file I provided in `sample/ranking_results/` to reproduce the experiment results.
 
-
+---
 
 Please contact me via email (dayu ant udel dot edu) if you have any question. Thanks!
 
