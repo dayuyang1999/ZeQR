@@ -1,5 +1,5 @@
 # ZeQR
-Offical code for ICTIR'23 paper
+Offical code for ICTIR'23 paper: Zero-shot Query Reformulation for Conversational Search
 
 
 ![ZeQR](./properties/method.png)
