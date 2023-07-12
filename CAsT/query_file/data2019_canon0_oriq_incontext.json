@@ -1,0 +1,1178 @@
+[
+    {
+        "qid":"1_1",
+        "ori_q":"What is a physician's assistant?",
+        "rew_q":"What is a physician's assistant?",
+        "context":""
+    },
+    {
+        "qid":"1_2",
+        "ori_q":"What are the educational requirements required to become one?",
+        "rew_q":"What are the educational requirements required to become a physician's assistant?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one?"
+    },
+    {
+        "qid":"1_3",
+        "ori_q":"What does it cost?",
+        "rew_q":"What does the education to become a physician's assistant cost?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost?"
+    },
+    {
+        "qid":"1_4",
+        "ori_q":"What's the average starting salary in the UK?",
+        "rew_q":"What's the average starting salary of a physician's assistant in the UK?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK?"
+    },
+    {
+        "qid":"1_5",
+        "ori_q":"What about in the US?",
+        "rew_q":"What's the average starting salary of a physician's assistant in the US?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US?"
+    },
+    {
+        "qid":"1_6",
+        "ori_q":"What school subjects are needed to become a registered nurse?",
+        "rew_q":"What school subjects are needed to become a registered nurse?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US? . What school subjects are needed to become a registered nurse?"
+    },
+    {
+        "qid":"1_7",
+        "ori_q":"What is the PA average salary vs an RN?",
+        "rew_q":"What is the physician's assistant average salary vs a registered nurse?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US? . What school subjects are needed to become a registered nurse? . What is the PA average salary vs an RN?"
+    },
+    {
+        "qid":"1_8",
+        "ori_q":"What the difference between a PA and a nurse practitioner?",
+        "rew_q":"What the difference between a physician's assistant and a nurse practitioner?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US? . What school subjects are needed to become a registered nurse? . What is the PA average salary vs an RN? . What the difference between a PA and a nurse practitioner?"
+    },
+    {
+        "qid":"1_9",
+        "ori_q":"Do NPs or PAs make more?",
+        "rew_q":"Do nurse practitioners or physician's assistant's make more?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US? . What school subjects are needed to become a registered nurse? . What is the PA average salary vs an RN? . What the difference between a PA and a nurse practitioner? . Do NPs or PAs make more?"
+    },
+    {
+        "qid":"1_10",
+        "ori_q":"Is a PA above a NP?",
+        "rew_q":"Is a physician's assistant above a nurse practitioner?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US? . What school subjects are needed to become a registered nurse? . What is the PA average salary vs an RN? . What the difference between a PA and a nurse practitioner? . Do NPs or PAs make more? . Is a PA above a NP?"
+    },
+    {
+        "qid":"1_11",
+        "ori_q":"What is the fastest way to become a NP?",
+        "rew_q":"What is the fastest way to become a nurse practioner?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US? . What school subjects are needed to become a registered nurse? . What is the PA average salary vs an RN? . What the difference between a PA and a nurse practitioner? . Do NPs or PAs make more? . Is a PA above a NP? . What is the fastest way to become a NP?"
+    },
+    {
+        "qid":"1_12",
+        "ori_q":"How much longer does it take to become a doctor after being an NP?",
+        "rew_q":"How much longer does it take to become a doctor after being a nurse practitioner?",
+        "context":"What is a physician's assistant? . What are the educational requirements required to become one? . What does it cost? . What's the average starting salary in the UK? . What about in the US? . What school subjects are needed to become a registered nurse? . What is the PA average salary vs an RN? . What the difference between a PA and a nurse practitioner? . Do NPs or PAs make more? . Is a PA above a NP? . What is the fastest way to become a NP? . How much longer does it take to become a doctor after being an NP?"
+    },
+    {
+        "qid":"2_1",
+        "ori_q":"What are the main breeds of goat?",
+        "rew_q":"What are the main breeds of goat?",
+        "context":""
+    },
+    {
+        "qid":"2_2",
+        "ori_q":"Tell me about boer goats.",
+        "rew_q":"Tell me about boer goats.",
+        "context":"What are the main breeds of goat? . Tell me about boer goats."
+    },
+    {
+        "qid":"2_3",
+        "ori_q":"What breed is good for meat?",
+        "rew_q":"What goat breed is good for meat?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat?"
+    },
+    {
+        "qid":"2_4",
+        "ori_q":"Are angora goats good for it?",
+        "rew_q":"Are angora goats good for meat?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it?"
+    },
+    {
+        "qid":"2_5",
+        "ori_q":"What about boer goats?",
+        "rew_q":"Are boer goats good for meat?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it? . What about boer goats?"
+    },
+    {
+        "qid":"2_6",
+        "ori_q":"What are pygmies used for?",
+        "rew_q":"What are pygmy goats used for?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it? . What about boer goats? . What are pygmies used for?"
+    },
+    {
+        "qid":"2_7",
+        "ori_q":"What is the best for fiber production?",
+        "rew_q":"What goat breed is the best for fiber production?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it? . What about boer goats? . What are pygmies used for? . What is the best for fiber production?"
+    },
+    {
+        "qid":"2_8",
+        "ori_q":"How long do Angora goats live?",
+        "rew_q":"How long do Angora goats live?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it? . What about boer goats? . What are pygmies used for? . What is the best for fiber production? . How long do Angora goats live?"
+    },
+    {
+        "qid":"2_9",
+        "ori_q":"Can you milk them?",
+        "rew_q":"Can you milk Angora goats?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it? . What about boer goats? . What are pygmies used for? . What is the best for fiber production? . How long do Angora goats live? . Can you milk them?"
+    },
+    {
+        "qid":"2_10",
+        "ori_q":"How many can you have per acre?",
+        "rew_q":"How many Angora goats can you have per acre?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it? . What about boer goats? . What are pygmies used for? . What is the best for fiber production? . How long do Angora goats live? . Can you milk them? . How many can you have per acre?"
+    },
+    {
+        "qid":"2_11",
+        "ori_q":"Are they profitable?",
+        "rew_q":"Are Angora goats profitable?",
+        "context":"What are the main breeds of goat? . Tell me about boer goats. . What breed is good for meat? . Are angora goats good for it? . What about boer goats? . What are pygmies used for? . What is the best for fiber production? . How long do Angora goats live? . Can you milk them? . How many can you have per acre? . Are they profitable?"
+    },
+    {
+        "qid":"31_1",
+        "ori_q":"What is throat cancer?",
+        "rew_q":"What is throat cancer?",
+        "context":""
+    },
+    {
+        "qid":"31_2",
+        "ori_q":"Is it treatable?",
+        "rew_q":"Is throat cancer treatable?",
+        "context":"What is throat cancer? . Is it treatable?"
+    },
+    {
+        "qid":"31_3",
+        "ori_q":"Tell me about lung cancer.",
+        "rew_q":"Tell me about lung cancer.",
+        "context":"What is throat cancer? . Is it treatable? . Tell me about lung cancer."
+    },
+    {
+        "qid":"31_4",
+        "ori_q":"What are its symptoms? ",
+        "rew_q":"What are lung cancer's symptoms?",
+        "context":"What is throat cancer? . Is it treatable? . Tell me about lung cancer. . What are its symptoms? "
+    },
+    {
+        "qid":"31_5",
+        "ori_q":"Can it spread to the throat?",
+        "rew_q":"Can lung cancer spread to the throat?",
+        "context":"What is throat cancer? . Is it treatable? . Tell me about lung cancer. . What are its symptoms?  . Can it spread to the throat?"
+    },
+    {
+        "qid":"31_6",
+        "ori_q":"What causes throat cancer?",
+        "rew_q":"What causes throat cancer?",
+        "context":"What is throat cancer? . Is it treatable? . Tell me about lung cancer. . What are its symptoms?  . Can it spread to the throat? . What causes throat cancer?"
+    },
+    {
+        "qid":"31_7",
+        "ori_q":"What is the first sign of it?",
+        "rew_q":"What is the first sign of throat cancer?",
+        "context":"What is throat cancer? . Is it treatable? . Tell me about lung cancer. . What are its symptoms?  . Can it spread to the throat? . What causes throat cancer? . What is the first sign of it?"
+    },
+    {
+        "qid":"31_8",
+        "ori_q":"Is it the same as esophageal cancer?",
+        "rew_q":"Is throat cancer the same as esophageal cancer?",
+        "context":"What is throat cancer? . Is it treatable? . Tell me about lung cancer. . What are its symptoms?  . Can it spread to the throat? . What causes throat cancer? . What is the first sign of it? . Is it the same as esophageal cancer?"
+    },
+    {
+        "qid":"31_9",
+        "ori_q":"What's the difference in their symptoms?",
+        "rew_q":"What's the difference in throat cancer and esophageal cancer's symptoms?",
+        "context":"What is throat cancer? . Is it treatable? . Tell me about lung cancer. . What are its symptoms?  . Can it spread to the throat? . What causes throat cancer? . What is the first sign of it? . Is it the same as esophageal cancer? . What's the difference in their symptoms?"
+    },
+    {
+        "qid":"32_1",
+        "ori_q":"What are the different types of sharks?",
+        "rew_q":"What are the different types of sharks?",
+        "context":""
+    },
+    {
+        "qid":"32_2",
+        "ori_q":"Are sharks endangered?  If so, which species?",
+        "rew_q":"Are sharks endangered? If so, which species?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species?"
+    },
+    {
+        "qid":"32_3",
+        "ori_q":"Tell me more about tiger sharks.",
+        "rew_q":"Tell me more about tiger sharks.",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks."
+    },
+    {
+        "qid":"32_4",
+        "ori_q":"What is the largest ever to have lived on Earth?",
+        "rew_q":"What is the largest shark ever to have lived on Earth?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth?"
+    },
+    {
+        "qid":"32_5",
+        "ori_q":"What's the biggest ever caught?",
+        "rew_q":"What's the biggest shark ever caught?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth? . What's the biggest ever caught?"
+    },
+    {
+        "qid":"32_6",
+        "ori_q":"What about for great whites?",
+        "rew_q":"What about for great whites?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth? . What's the biggest ever caught? . What about for great whites?"
+    },
+    {
+        "qid":"32_7",
+        "ori_q":"Tell me about makos.",
+        "rew_q":"Tell me about Mako sharks.",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth? . What's the biggest ever caught? . What about for great whites? . Tell me about makos."
+    },
+    {
+        "qid":"32_8",
+        "ori_q":"What are their adaptations?",
+        "rew_q":"What are Mako shark adaptations?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth? . What's the biggest ever caught? . What about for great whites? . Tell me about makos. . What are their adaptations?"
+    },
+    {
+        "qid":"32_9",
+        "ori_q":"Where do they live?",
+        "rew_q":"Where do Mako sharks live?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth? . What's the biggest ever caught? . What about for great whites? . Tell me about makos. . What are their adaptations? . Where do they live?"
+    },
+    {
+        "qid":"32_10",
+        "ori_q":"What do they eat?",
+        "rew_q":"What do Mako sharks eat?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth? . What's the biggest ever caught? . What about for great whites? . Tell me about makos. . What are their adaptations? . Where do they live? . What do they eat?"
+    },
+    {
+        "qid":"32_11",
+        "ori_q":"How do they compare with tigers for being dangerous?",
+        "rew_q":"How do Mako sharks compare with Tiger sharks for being dangerous?",
+        "context":"What are the different types of sharks? . Are sharks endangered?  If so, which species? . Tell me more about tiger sharks. . What is the largest ever to have lived on Earth? . What's the biggest ever caught? . What about for great whites? . Tell me about makos. . What are their adaptations? . Where do they live? . What do they eat? . How do they compare with tigers for being dangerous?"
+    },
+    {
+        "qid":"33_1",
+        "ori_q":"Tell me about the Neverending Story film.",
+        "rew_q":"Tell me about the Neverending Story film.",
+        "context":""
+    },
+    {
+        "qid":"33_2",
+        "ori_q":"What is it about?",
+        "rew_q":"What is the Neverending Story film about?",
+        "context":"Tell me about the Neverending Story film. . What is it about?"
+    },
+    {
+        "qid":"33_3",
+        "ori_q":"How was it received?",
+        "rew_q":"How was the Neverending Story film received?",
+        "context":"Tell me about the Neverending Story film. . What is it about? . How was it received?"
+    },
+    {
+        "qid":"33_4",
+        "ori_q":"Did it win any awards?",
+        "rew_q":"Did the Neverending Story film win any awards?",
+        "context":"Tell me about the Neverending Story film. . What is it about? . How was it received? . Did it win any awards?"
+    },
+    {
+        "qid":"33_5",
+        "ori_q":"Was it a book first?",
+        "rew_q":"Was the Neverending Story film a book first?",
+        "context":"Tell me about the Neverending Story film. . What is it about? . How was it received? . Did it win any awards? . Was it a book first?"
+    },
+    {
+        "qid":"33_6",
+        "ori_q":"Who was the author and when what it published?",
+        "rew_q":"Who was the author and when was the Neverending Story film published?",
+        "context":"Tell me about the Neverending Story film. . What is it about? . How was it received? . Did it win any awards? . Was it a book first? . Who was the author and when what it published?"
+    },
+    {
+        "qid":"33_7",
+        "ori_q":"What are the main themes?",
+        "rew_q":"What are the main themes of the Neverending Story film?",
+        "context":"Tell me about the Neverending Story film. . What is it about? . How was it received? . Did it win any awards? . Was it a book first? . Who was the author and when what it published? . What are the main themes?"
+    },
+    {
+        "qid":"33_8",
+        "ori_q":"Who are the main characters?",
+        "rew_q":"Who are the main characters of the the Neverending Story film?",
+        "context":"Tell me about the Neverending Story film. . What is it about? . How was it received? . Did it win any awards? . Was it a book first? . Who was the author and when what it published? . What are the main themes? . Who are the main characters?"
+    },
+    {
+        "qid":"34_1",
+        "ori_q":"Tell me about the Bronze Age collapse.",
+        "rew_q":"Tell me about the Bronze Age collapse.",
+        "context":""
+    },
+    {
+        "qid":"34_2",
+        "ori_q":"What is the evidence for it?",
+        "rew_q":"What is the evidence for the Bronze Age collapse?",
+        "context":"Tell me about the Bronze Age collapse. . What is the evidence for it?"
+    },
+    {
+        "qid":"34_3",
+        "ori_q":"What are some of the possible causes?",
+        "rew_q":"What are some of the possible causes of the Bronze Age collapse?",
+        "context":"Tell me about the Bronze Age collapse. . What is the evidence for it? . What are some of the possible causes?"
+    },
+    {
+        "qid":"34_4",
+        "ori_q":"Who were the Sea Peoples?",
+        "rew_q":"Who were the Sea Peoples during the Bronze Age collapse?",
+        "context":"Tell me about the Bronze Age collapse. . What is the evidence for it? . What are some of the possible causes? . Who were the Sea Peoples?"
+    },
+    {
+        "qid":"34_5",
+        "ori_q":"What was their role in it?",
+        "rew_q":"What was their role in the Bronze Age collapse?",
+        "context":"Tell me about the Bronze Age collapse. . What is the evidence for it? . What are some of the possible causes? . Who were the Sea Peoples? . What was their role in it?"
+    },
+    {
+        "qid":"34_6",
+        "ori_q":"What other factors led to a breakdown of trade?",
+        "rew_q":"What other factors led to a breakdown of trade during the Bronze Age collapse?",
+        "context":"Tell me about the Bronze Age collapse. . What is the evidence for it? . What are some of the possible causes? . Who were the Sea Peoples? . What was their role in it? . What other factors led to a breakdown of trade?"
+    },
+    {
+        "qid":"34_7",
+        "ori_q":"What about environmental factors?",
+        "rew_q":"What about environmental factors during the Bronze Age collapse?",
+        "context":"Tell me about the Bronze Age collapse. . What is the evidence for it? . What are some of the possible causes? . Who were the Sea Peoples? . What was their role in it? . What other factors led to a breakdown of trade? . What about environmental factors?"
+    },
+    {
+        "qid":"34_8",
+        "ori_q":"What empires survived?",
+        "rew_q":"What empires survived the Bronze Age collapse?",
+        "context":"Tell me about the Bronze Age collapse. . What is the evidence for it? . What are some of the possible causes? . Who were the Sea Peoples? . What was their role in it? . What other factors led to a breakdown of trade? . What about environmental factors? . What empires survived?"
+    },
+    {
+        "qid":"37_1",
+        "ori_q":"What was the Stanford Experiment?",
+        "rew_q":"What was the Stanford Experiment?",
+        "context":""
+    },
+    {
+        "qid":"37_2",
+        "ori_q":"What did it show?",
+        "rew_q":"What did the Stanford Experiment show?",
+        "context":"What was the Stanford Experiment? . What did it show?"
+    },
+    {
+        "qid":"37_3",
+        "ori_q":"Tell me about the author of the experiment.",
+        "rew_q":"Tell me about the author of the Stanford Experiment.",
+        "context":"What was the Stanford Experiment? . What did it show? . Tell me about the author of the experiment."
+    },
+    {
+        "qid":"37_4",
+        "ori_q":"Was it ethical?",
+        "rew_q":"Was the Stanford Experiment ethical?",
+        "context":"What was the Stanford Experiment? . What did it show? . Tell me about the author of the experiment. . Was it ethical?"
+    },
+    {
+        "qid":"37_5",
+        "ori_q":"What are other similar experiments?",
+        "rew_q":"What are other similar experiments to the Stanford Experiment?",
+        "context":"What was the Stanford Experiment? . What did it show? . Tell me about the author of the experiment. . Was it ethical? . What are other similar experiments?"
+    },
+    {
+        "qid":"37_6",
+        "ori_q":"What happened in the Milgram experiment?",
+        "rew_q":"What happened in the Milgram experiment?",
+        "context":"What was the Stanford Experiment? . What did it show? . Tell me about the author of the experiment. . Was it ethical? . What are other similar experiments? . What happened in the Milgram experiment?"
+    },
+    {
+        "qid":"37_7",
+        "ori_q":"Why was it important?",
+        "rew_q":"Why was the Milgram experiment important?",
+        "context":"What was the Stanford Experiment? . What did it show? . Tell me about the author of the experiment. . Was it ethical? . What are other similar experiments? . What happened in the Milgram experiment? . Why was it important?"
+    },
+    {
+        "qid":"37_8",
+        "ori_q":"What were the similarities and differences between the studies?",
+        "rew_q":"What were the similarities and differences between the Stanford Experiment and the Milgram experiment?",
+        "context":"What was the Stanford Experiment? . What did it show? . Tell me about the author of the experiment. . Was it ethical? . What are other similar experiments? . What happened in the Milgram experiment? . Why was it important? . What were the similarities and differences between the studies?"
+    },
+    {
+        "qid":"40_1",
+        "ori_q":"What are the origins of popular music? ",
+        "rew_q":"What are the origins of popular music?",
+        "context":""
+    },
+    {
+        "qid":"40_2",
+        "ori_q":"What are its characteristics?",
+        "rew_q":"What are popular music's characteristics?",
+        "context":"What are the origins of popular music?  . What are its characteristics?"
+    },
+    {
+        "qid":"40_3",
+        "ori_q":"What technological developments enabled it?",
+        "rew_q":"What technological developments enabled popular music?",
+        "context":"What are the origins of popular music?  . What are its characteristics? . What technological developments enabled it?"
+    },
+    {
+        "qid":"40_4",
+        "ori_q":"When and why did people start taking pop seriously? ",
+        "rew_q":"When and why did people start taking pop music seriously?",
+        "context":"What are the origins of popular music?  . What are its characteristics? . What technological developments enabled it? . When and why did people start taking pop seriously? "
+    },
+    {
+        "qid":"40_5",
+        "ori_q":"How has it been integrated into music education? ",
+        "rew_q":"How has pop music been integrated into music education?",
+        "context":"What are the origins of popular music?  . What are its characteristics? . What technological developments enabled it? . When and why did people start taking pop seriously?  . How has it been integrated into music education? "
+    },
+    {
+        "qid":"40_6",
+        "ori_q":"Describe some of the influential pop bands. ",
+        "rew_q":"Describe some of the influential pop bands.",
+        "context":"What are the origins of popular music?  . What are its characteristics? . What technological developments enabled it? . When and why did people start taking pop seriously?  . How has it been integrated into music education?  . Describe some of the influential pop bands. "
+    },
+    {
+        "qid":"40_7",
+        "ori_q":"What makes a song pop punk?",
+        "rew_q":"What makes a song pop punk?",
+        "context":"What are the origins of popular music?  . What are its characteristics? . What technological developments enabled it? . When and why did people start taking pop seriously?  . How has it been integrated into music education?  . Describe some of the influential pop bands.  . What makes a song pop punk?"
+    },
+    {
+        "qid":"40_8",
+        "ori_q":"What is the difference between it and emo?",
+        "rew_q":"What is the difference between pop punk and emo?",
+        "context":"What are the origins of popular music?  . What are its characteristics? . What technological developments enabled it? . When and why did people start taking pop seriously?  . How has it been integrated into music education?  . Describe some of the influential pop bands.  . What makes a song pop punk? . What is the difference between it and emo?"
+    },
+    {
+        "qid":"49_1",
+        "ori_q":"How was Netflix started? ",
+        "rew_q":"How was Netflix started?",
+        "context":""
+    },
+    {
+        "qid":"49_2",
+        "ori_q":"How did it originally work?",
+        "rew_q":"How did Netflix originally work?",
+        "context":"How was Netflix started?  . How did it originally work?"
+    },
+    {
+        "qid":"49_3",
+        "ori_q":"What is its relationship with Blockbuster?",
+        "rew_q":"What is Netflix's relationship with Blockbuster?",
+        "context":"How was Netflix started?  . How did it originally work? . What is its relationship with Blockbuster?"
+    },
+    {
+        "qid":"49_4",
+        "ori_q":"When did Netflix shift from DVDs to a streaming service?",
+        "rew_q":"When did Netflix shift from DVDs to a streaming service?",
+        "context":"How was Netflix started?  . How did it originally work? . What is its relationship with Blockbuster? . When did Netflix shift from DVDs to a streaming service?"
+    },
+    {
+        "qid":"49_5",
+        "ori_q":"What are its other competitors? ",
+        "rew_q":"What are Netflix's other competitors than Blockbuster?",
+        "context":"How was Netflix started?  . How did it originally work? . What is its relationship with Blockbuster? . When did Netflix shift from DVDs to a streaming service? . What are its other competitors? "
+    },
+    {
+        "qid":"49_6",
+        "ori_q":"How does it compare to Amazon Prime Video?",
+        "rew_q":"How does Netflix compare to Amazon Prime Video?",
+        "context":"How was Netflix started?  . How did it originally work? . What is its relationship with Blockbuster? . When did Netflix shift from DVDs to a streaming service? . What are its other competitors?  . How does it compare to Amazon Prime Video?"
+    },
+    {
+        "qid":"49_7",
+        "ori_q":"Describe it\u2019s subscriber growth over time.",
+        "rew_q":"Describe Netflix's subscriber growth over time.",
+        "context":"How was Netflix started?  . How did it originally work? . What is its relationship with Blockbuster? . When did Netflix shift from DVDs to a streaming service? . What are its other competitors?  . How does it compare to Amazon Prime Video? . Describe it\u2019s subscriber growth over time."
+    },
+    {
+        "qid":"49_8",
+        "ori_q":"How has it changed the way TV is watched?",
+        "rew_q":"How has Netflix changed the way TV is watched?",
+        "context":"How was Netflix started?  . How did it originally work? . What is its relationship with Blockbuster? . When did Netflix shift from DVDs to a streaming service? . What are its other competitors?  . How does it compare to Amazon Prime Video? . Describe it\u2019s subscriber growth over time. . How has it changed the way TV is watched?"
+    },
+    {
+        "qid":"50_1",
+        "ori_q":"What was the first artificial satellite?",
+        "rew_q":"What was the first artificial satellite?",
+        "context":""
+    },
+    {
+        "qid":"50_2",
+        "ori_q":"What are the types of orbits?",
+        "rew_q":"What are the types of satellite orbits?",
+        "context":"What was the first artificial satellite? . What are the types of orbits?"
+    },
+    {
+        "qid":"50_3",
+        "ori_q":"What are the important classes of satellite?",
+        "rew_q":"What are the important classes of artificial satellites?",
+        "context":"What was the first artificial satellite? . What are the types of orbits? . What are the important classes of satellite?"
+    },
+    {
+        "qid":"50_4",
+        "ori_q":"How do navigation systems work?",
+        "rew_q":"How do satellite navigation systems work?",
+        "context":"What was the first artificial satellite? . What are the types of orbits? . What are the important classes of satellite? . How do navigation systems work?"
+    },
+    {
+        "qid":"50_5",
+        "ori_q":"What is the Galileo system and why is it important?",
+        "rew_q":"What is the Galileo system and why is it important?",
+        "context":"What was the first artificial satellite? . What are the types of orbits? . What are the important classes of satellite? . How do navigation systems work? . What is the Galileo system and why is it important?"
+    },
+    {
+        "qid":"50_6",
+        "ori_q":"Why did it create tension with the US?",
+        "rew_q":"Why did the Galileo system create tension with the US?",
+        "context":"What was the first artificial satellite? . What are the types of orbits? . What are the important classes of satellite? . How do navigation systems work? . What is the Galileo system and why is it important? . Why did it create tension with the US?"
+    },
+    {
+        "qid":"50_7",
+        "ori_q":"What are Cubesats?",
+        "rew_q":"What are Cubesats?",
+        "context":"What was the first artificial satellite? . What are the types of orbits? . What are the important classes of satellite? . How do navigation systems work? . What is the Galileo system and why is it important? . Why did it create tension with the US? . What are Cubesats?"
+    },
+    {
+        "qid":"50_8",
+        "ori_q":"What are their advantages? ",
+        "rew_q":"What are Cubesats' advantages?",
+        "context":"What was the first artificial satellite? . What are the types of orbits? . What are the important classes of satellite? . How do navigation systems work? . What is the Galileo system and why is it important? . Why did it create tension with the US? . What are Cubesats? . What are their advantages? "
+    },
+    {
+        "qid":"54_1",
+        "ori_q":"What is worth seeing in Washington D.C.?",
+        "rew_q":"What is worth seeing in Washington D.C.?",
+        "context":""
+    },
+    {
+        "qid":"54_2",
+        "ori_q":"Which Smithsonian museums are the most popular?",
+        "rew_q":"Which Smithsonian museums in Washington D.C. are the most popular?",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular?"
+    },
+    {
+        "qid":"54_3",
+        "ori_q":"Why is the National Air and Space Museum important?",
+        "rew_q":"Why is the National Air and Space Museum important?",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular? . Why is the National Air and Space Museum important?"
+    },
+    {
+        "qid":"54_4",
+        "ori_q":"Is the Spy Museum free?",
+        "rew_q":"Is the Spy Museum in Washington D.C. free?",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular? . Why is the National Air and Space Museum important? . Is the Spy Museum free?"
+    },
+    {
+        "qid":"54_5",
+        "ori_q":"What is there to do in DC after the museums close?",
+        "rew_q":"What is there to do in Washington D.C. after the museums close?",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular? . Why is the National Air and Space Museum important? . Is the Spy Museum free? . What is there to do in DC after the museums close?"
+    },
+    {
+        "qid":"54_6",
+        "ori_q":"What is the best time to visit the reflecting pools?",
+        "rew_q":"What is the best time to visit the reflecting pools in Washington D.C.?",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular? . Why is the National Air and Space Museum important? . Is the Spy Museum free? . What is there to do in DC after the museums close? . What is the best time to visit the reflecting pools?"
+    },
+    {
+        "qid":"54_7",
+        "ori_q":"Are there any famous foods?",
+        "rew_q":"Are there any famous foods in Washington D.C.?",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular? . Why is the National Air and Space Museum important? . Is the Spy Museum free? . What is there to do in DC after the museums close? . What is the best time to visit the reflecting pools? . Are there any famous foods?"
+    },
+    {
+        "qid":"54_8",
+        "ori_q":"What is a DC half smoke?",
+        "rew_q":"What is a DC half smoke?",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular? . Why is the National Air and Space Museum important? . Is the Spy Museum free? . What is there to do in DC after the museums close? . What is the best time to visit the reflecting pools? . Are there any famous foods? . What is a DC half smoke?"
+    },
+    {
+        "qid":"54_9",
+        "ori_q":"Tell me about its history.",
+        "rew_q":"Tell me about DC half smoke's history.",
+        "context":"What is worth seeing in Washington D.C.? . Which Smithsonian museums are the most popular? . Why is the National Air and Space Museum important? . Is the Spy Museum free? . What is there to do in DC after the museums close? . What is the best time to visit the reflecting pools? . Are there any famous foods? . What is a DC half smoke? . Tell me about its history."
+    },
+    {
+        "qid":"56_1",
+        "ori_q":"What is Darwin\u2019s theory in a nutshell?",
+        "rew_q":"What is Darwin\u2019s theory in a nutshell?",
+        "context":""
+    },
+    {
+        "qid":"56_2",
+        "ori_q":"How was it developed? ",
+        "rew_q":"How was Darwin\u2019s theory developed?",
+        "context":"What is Darwin\u2019s theory in a nutshell? . How was it developed? "
+    },
+    {
+        "qid":"56_3",
+        "ori_q":"How do sexual and asexual reproduction affect it?",
+        "rew_q":"How do sexual and asexual reproduction affect Darwin\u2019s theory?",
+        "context":"What is Darwin\u2019s theory in a nutshell? . How was it developed?  . How do sexual and asexual reproduction affect it?"
+    },
+    {
+        "qid":"56_4",
+        "ori_q":"How can fossils be used to understand it?",
+        "rew_q":"How can fossils be used to understand Darwin\u2019s theory?",
+        "context":"What is Darwin\u2019s theory in a nutshell? . How was it developed?  . How do sexual and asexual reproduction affect it? . How can fossils be used to understand it?"
+    },
+    {
+        "qid":"56_5",
+        "ori_q":"What is modern evidence for it? ",
+        "rew_q":"What is modern evidence for Darwin\u2019s theory?",
+        "context":"What is Darwin\u2019s theory in a nutshell? . How was it developed?  . How do sexual and asexual reproduction affect it? . How can fossils be used to understand it? . What is modern evidence for it? "
+    },
+    {
+        "qid":"56_6",
+        "ori_q":"What is the impact on modern biology?",
+        "rew_q":"What is the impact of Darwin\u2019s theory on modern biology?",
+        "context":"What is Darwin\u2019s theory in a nutshell? . How was it developed?  . How do sexual and asexual reproduction affect it? . How can fossils be used to understand it? . What is modern evidence for it?  . What is the impact on modern biology?"
+    },
+    {
+        "qid":"56_7",
+        "ori_q":"Compare and contrast microevolution and macroevolution.",
+        "rew_q":"Compare and contrast microevolution and macroevolution.",
+        "context":"What is Darwin\u2019s theory in a nutshell? . How was it developed?  . How do sexual and asexual reproduction affect it? . How can fossils be used to understand it? . What is modern evidence for it?  . What is the impact on modern biology? . Compare and contrast microevolution and macroevolution."
+    },
+    {
+        "qid":"56_8",
+        "ori_q":"What is the relationship to speciation?",
+        "rew_q":"What is the relationship of Darwin's theory to speciation?",
+        "context":"What is Darwin\u2019s theory in a nutshell? . How was it developed?  . How do sexual and asexual reproduction affect it? . How can fossils be used to understand it? . What is modern evidence for it?  . What is the impact on modern biology? . Compare and contrast microevolution and macroevolution. . What is the relationship to speciation?"
+    },
+    {
+        "qid":"58_1",
+        "ori_q":"What is a real-time database?",
+        "rew_q":"What is a real-time database?",
+        "context":""
+    },
+    {
+        "qid":"58_2",
+        "ori_q":"How does it differ from traditional ones?",
+        "rew_q":"How does a real-time database differ from traditional databases?",
+        "context":"What is a real-time database? . How does it differ from traditional ones?"
+    },
+    {
+        "qid":"58_3",
+        "ori_q":"What are the advantages of real-time processing?",
+        "rew_q":"What are the advantages of real-time processing in real-time databases?",
+        "context":"What is a real-time database? . How does it differ from traditional ones? . What are the advantages of real-time processing?"
+    },
+    {
+        "qid":"58_4",
+        "ori_q":"What are examples of important ones?",
+        "rew_q":"What are examples of important real-time databases?",
+        "context":"What is a real-time database? . How does it differ from traditional ones? . What are the advantages of real-time processing? . What are examples of important ones?"
+    },
+    {
+        "qid":"58_5",
+        "ori_q":"What are important applications?",
+        "rew_q":"What are important applications of real-time databases?",
+        "context":"What is a real-time database? . How does it differ from traditional ones? . What are the advantages of real-time processing? . What are examples of important ones? . What are important applications?"
+    },
+    {
+        "qid":"58_6",
+        "ori_q":"What are important cloud options?",
+        "rew_q":"What are important cloud options for real-time databases?",
+        "context":"What is a real-time database? . How does it differ from traditional ones? . What are the advantages of real-time processing? . What are examples of important ones? . What are important applications? . What are important cloud options?"
+    },
+    {
+        "qid":"58_7",
+        "ori_q":"Tell me about the Firebase DB.",
+        "rew_q":"Tell me about the Firebase DB.",
+        "context":"What is a real-time database? . How does it differ from traditional ones? . What are the advantages of real-time processing? . What are examples of important ones? . What are important applications? . What are important cloud options? . Tell me about the Firebase DB."
+    },
+    {
+        "qid":"58_8",
+        "ori_q":"How is it used in mobile apps?",
+        "rew_q":"How is Firebase DB used in mobile apps?",
+        "context":"What is a real-time database? . How does it differ from traditional ones? . What are the advantages of real-time processing? . What are examples of important ones? . What are important applications? . What are important cloud options? . Tell me about the Firebase DB. . How is it used in mobile apps?"
+    },
+    {
+        "qid":"59_1",
+        "ori_q":"Which weekend sports have the most injuries?",
+        "rew_q":"Which weekend sports have the most injuries?",
+        "context":""
+    },
+    {
+        "qid":"59_2",
+        "ori_q":"What are the most common types of injuries? ",
+        "rew_q":"What are the most common types of injuries?",
+        "context":"Which weekend sports have the most injuries? . What are the most common types of injuries? "
+    },
+    {
+        "qid":"59_3",
+        "ori_q":"What is the ACL?",
+        "rew_q":"What is the ACL?",
+        "context":"Which weekend sports have the most injuries? . What are the most common types of injuries?  . What is the ACL?"
+    },
+    {
+        "qid":"59_4",
+        "ori_q":"What is an injury for it?",
+        "rew_q":"What is an injury for the ACL?",
+        "context":"Which weekend sports have the most injuries? . What are the most common types of injuries?  . What is the ACL? . What is an injury for it?"
+    },
+    {
+        "qid":"59_5",
+        "ori_q":"Tell me about the RICE method.",
+        "rew_q":"Tell me about the RICE method.",
+        "context":"Which weekend sports have the most injuries? . What are the most common types of injuries?  . What is the ACL? . What is an injury for it? . Tell me about the RICE method."
+    },
+    {
+        "qid":"59_6",
+        "ori_q":"Is there disagreement about it?",
+        "rew_q":"Is there disagreement about the RICE method?",
+        "context":"Which weekend sports have the most injuries? . What are the most common types of injuries?  . What is the ACL? . What is an injury for it? . Tell me about the RICE method. . Is there disagreement about it?"
+    },
+    {
+        "qid":"59_7",
+        "ori_q":"What is arnica used for?",
+        "rew_q":"What is arnica used for in sports injuries?",
+        "context":"Which weekend sports have the most injuries? . What are the most common types of injuries?  . What is the ACL? . What is an injury for it? . Tell me about the RICE method. . Is there disagreement about it? . What is arnica used for?"
+    },
+    {
+        "qid":"59_8",
+        "ori_q":"What are some ways to avoid injury?",
+        "rew_q":"What are some ways to avoid sports injuries?",
+        "context":"Which weekend sports have the most injuries? . What are the most common types of injuries?  . What is the ACL? . What is an injury for it? . Tell me about the RICE method. . Is there disagreement about it? . What is arnica used for? . What are some ways to avoid injury?"
+    },
+    {
+        "qid":"61_1",
+        "ori_q":"Who are The Avengers?",
+        "rew_q":"Who are The Avengers?",
+        "context":""
+    },
+    {
+        "qid":"61_2",
+        "ori_q":"Tell me about their first appearance.",
+        "rew_q":"Tell me about The Avengers' first appearance.",
+        "context":"Who are The Avengers? . Tell me about their first appearance."
+    },
+    {
+        "qid":"61_3",
+        "ori_q":"Who is the most powerful and why? ",
+        "rew_q":"Who is the most powerful of The Avengers and why?",
+        "context":"Who are The Avengers? . Tell me about their first appearance. . Who is the most powerful and why? "
+    },
+    {
+        "qid":"61_4",
+        "ori_q":"What is the relationship of Spider-Man to the team?",
+        "rew_q":"What is the relationship of Spider-Man to The Avengers?",
+        "context":"Who are The Avengers? . Tell me about their first appearance. . Who is the most powerful and why?  . What is the relationship of Spider-Man to the team?"
+    },
+    {
+        "qid":"61_5",
+        "ori_q":"Why is Batman not a member? ",
+        "rew_q":"Why is Batman not a member of The Avengers?",
+        "context":"Who are The Avengers? . Tell me about their first appearance. . Who is the most powerful and why?  . What is the relationship of Spider-Man to the team? . Why is Batman not a member? "
+    },
+    {
+        "qid":"61_6",
+        "ori_q":"What is an important team in the DC universe? ",
+        "rew_q":"What is an important team in the DC universe?",
+        "context":"Who are The Avengers? . Tell me about their first appearance. . Who is the most powerful and why?  . What is the relationship of Spider-Man to the team? . Why is Batman not a member?  . What is an important team in the DC universe? "
+    },
+    {
+        "qid":"61_7",
+        "ori_q":"Tell me about the origins of the Justice League.",
+        "rew_q":"Tell me about the origins of the Justice League in the DC universe.",
+        "context":"Who are The Avengers? . Tell me about their first appearance. . Who is the most powerful and why?  . What is the relationship of Spider-Man to the team? . Why is Batman not a member?  . What is an important team in the DC universe?  . Tell me about the origins of the Justice League."
+    },
+    {
+        "qid":"61_8",
+        "ori_q":"Who are the important members?",
+        "rew_q":"Who are the important members of the Justice League?",
+        "context":"Who are The Avengers? . Tell me about their first appearance. . Who is the most powerful and why?  . What is the relationship of Spider-Man to the team? . Why is Batman not a member?  . What is an important team in the DC universe?  . Tell me about the origins of the Justice League. . Who are the important members?"
+    },
+    {
+        "qid":"67_1",
+        "ori_q":"Why is blood red?",
+        "rew_q":"Why is blood red?",
+        "context":""
+    },
+    {
+        "qid":"67_2",
+        "ori_q":"What are red blood cells?",
+        "rew_q":"What are red blood cells?",
+        "context":"Why is blood red? . What are red blood cells?"
+    },
+    {
+        "qid":"67_3",
+        "ori_q":"How are they created?",
+        "rew_q":"How are red blood cells created?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created?"
+    },
+    {
+        "qid":"67_4",
+        "ori_q":"How is oxygen transported?",
+        "rew_q":"How is oxygen transported in blood?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported?"
+    },
+    {
+        "qid":"67_5",
+        "ori_q":"What is anemia?",
+        "rew_q":"What is anemia?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported? . What is anemia?"
+    },
+    {
+        "qid":"67_6",
+        "ori_q":"What are the symptoms?",
+        "rew_q":"What are the symptoms of anemia?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported? . What is anemia? . What are the symptoms?"
+    },
+    {
+        "qid":"67_7",
+        "ori_q":"Can it go away?",
+        "rew_q":"Can anemia go away?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported? . What is anemia? . What are the symptoms? . Can it go away?"
+    },
+    {
+        "qid":"67_8",
+        "ori_q":"What are its possible causes?",
+        "rew_q":"What are anemia's possible causes?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported? . What is anemia? . What are the symptoms? . Can it go away? . What are its possible causes?"
+    },
+    {
+        "qid":"67_9",
+        "ori_q":"How is it treated?",
+        "rew_q":"How is anemia treated?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported? . What is anemia? . What are the symptoms? . Can it go away? . What are its possible causes? . How is it treated?"
+    },
+    {
+        "qid":"67_10",
+        "ori_q":"What foods contain high levels of iron?",
+        "rew_q":"What foods contain high levels of iron?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported? . What is anemia? . What are the symptoms? . Can it go away? . What are its possible causes? . How is it treated? . What foods contain high levels of iron?"
+    },
+    {
+        "qid":"67_11",
+        "ori_q":"What improves absorption?",
+        "rew_q":"What improves iron absorption?",
+        "context":"Why is blood red? . What are red blood cells? . How are they created? . How is oxygen transported? . What is anemia? . What are the symptoms? . Can it go away? . What are its possible causes? . How is it treated? . What foods contain high levels of iron? . What improves absorption?"
+    },
+    {
+        "qid":"68_1",
+        "ori_q":"What is cuisine is Emilia-Romagna famous for?",
+        "rew_q":"What is cuisine is Emilia-Romagna famous for?",
+        "context":""
+    },
+    {
+        "qid":"68_2",
+        "ori_q":"Tell me about cooking schools and classes.",
+        "rew_q":"Tell me about cooking schools and classes in Emilia-Romagna.",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes."
+    },
+    {
+        "qid":"68_3",
+        "ori_q":"What are famous foods from the region?",
+        "rew_q":"What are famous foods from Emilia-Romagna?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region?"
+    },
+    {
+        "qid":"68_4",
+        "ori_q":"Describe the traditional process for making balsamic vinegar?",
+        "rew_q":"Describe the traditional process for making balsamic vinegar.",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar?"
+    },
+    {
+        "qid":"68_5",
+        "ori_q":"What is mortadella and where is it from?",
+        "rew_q":"What is mortadella and where is it from?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar? . What is mortadella and where is it from?"
+    },
+    {
+        "qid":"68_6",
+        "ori_q":"What\u2019s the difference with Bologna?",
+        "rew_q":"What\u2019s the difference between mortadella and bologna?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar? . What is mortadella and where is it from? . What\u2019s the difference with Bologna?"
+    },
+    {
+        "qid":"68_7",
+        "ori_q":"Where was Parmesan cheese created?",
+        "rew_q":"Where was Parmesan cheese created?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar? . What is mortadella and where is it from? . What\u2019s the difference with Bologna? . Where was Parmesan cheese created?"
+    },
+    {
+        "qid":"68_8",
+        "ori_q":"What is done with the whey after production?",
+        "rew_q":"What is done with the whey after production of Parmesan cheese?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar? . What is mortadella and where is it from? . What\u2019s the difference with Bologna? . Where was Parmesan cheese created? . What is done with the whey after production?"
+    },
+    {
+        "qid":"68_9",
+        "ori_q":"What are typical pasta dishes?",
+        "rew_q":"What are typical pasta dishes from Emilia-Romagna?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar? . What is mortadella and where is it from? . What\u2019s the difference with Bologna? . Where was Parmesan cheese created? . What is done with the whey after production? . What are typical pasta dishes?"
+    },
+    {
+        "qid":"68_10",
+        "ori_q":"What is the history of tagliatelle al ragu bolognese?",
+        "rew_q":"What is the history of tagliatelle al ragu bolognese?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar? . What is mortadella and where is it from? . What\u2019s the difference with Bologna? . Where was Parmesan cheese created? . What is done with the whey after production? . What are typical pasta dishes? . What is the history of tagliatelle al ragu bolognese?"
+    },
+    {
+        "qid":"68_11",
+        "ori_q":"What are its common variations?",
+        "rew_q":"What are common variations of tagliatelle al ragu bolognese?",
+        "context":"What is cuisine is Emilia-Romagna famous for? . Tell me about cooking schools and classes. . What are famous foods from the region? . Describe the traditional process for making balsamic vinegar? . What is mortadella and where is it from? . What\u2019s the difference with Bologna? . Where was Parmesan cheese created? . What is done with the whey after production? . What are typical pasta dishes? . What is the history of tagliatelle al ragu bolognese? . What are its common variations?"
+    },
+    {
+        "qid":"69_1",
+        "ori_q":"How do you sleep after jet lag?",
+        "rew_q":"How do you sleep after jet lag?",
+        "context":""
+    },
+    {
+        "qid":"69_2",
+        "ori_q":"Does melatonin help?",
+        "rew_q":"Does melatonin help with jet lag?",
+        "context":"How do you sleep after jet lag? . Does melatonin help?"
+    },
+    {
+        "qid":"69_3",
+        "ori_q":"How was it discovered?",
+        "rew_q":"How was melatonin discovered?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered?"
+    },
+    {
+        "qid":"69_4",
+        "ori_q":"What are good sources in food?",
+        "rew_q":"What are good sources of melatonin in food?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered? . What are good sources in food?"
+    },
+    {
+        "qid":"69_5",
+        "ori_q":"Is melatonin bad for you?",
+        "rew_q":"Is melatonin bad for you?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered? . What are good sources in food? . Is melatonin bad for you?"
+    },
+    {
+        "qid":"69_6",
+        "ori_q":"What are the side effects?",
+        "rew_q":"What are the side effects of melatonin?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered? . What are good sources in food? . Is melatonin bad for you? . What are the side effects?"
+    },
+    {
+        "qid":"69_7",
+        "ori_q":"Why does it require a prescription in the UK?",
+        "rew_q":"Why does melatonin require a prescription in the UK?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered? . What are good sources in food? . Is melatonin bad for you? . What are the side effects? . Why does it require a prescription in the UK?"
+    },
+    {
+        "qid":"69_8",
+        "ori_q":"How can I increase my levels naturally?",
+        "rew_q":"How can I increase my melatonin levels naturally?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered? . What are good sources in food? . Is melatonin bad for you? . What are the side effects? . Why does it require a prescription in the UK? . How can I increase my levels naturally?"
+    },
+    {
+        "qid":"69_9",
+        "ori_q":"Is it effective for treating insomnia?",
+        "rew_q":"Is melatonin effective for treating insomnia?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered? . What are good sources in food? . Is melatonin bad for you? . What are the side effects? . Why does it require a prescription in the UK? . How can I increase my levels naturally? . Is it effective for treating insomnia?"
+    },
+    {
+        "qid":"69_10",
+        "ori_q":"How about for anxiety?",
+        "rew_q":"How about melatonin's effect for anxiety?",
+        "context":"How do you sleep after jet lag? . Does melatonin help? . How was it discovered? . What are good sources in food? . Is melatonin bad for you? . What are the side effects? . Why does it require a prescription in the UK? . How can I increase my levels naturally? . Is it effective for treating insomnia? . How about for anxiety?"
+    },
+    {
+        "qid":"75_1",
+        "ori_q":"Why do turkey and Turkey share the same name?",
+        "rew_q":"Why do turkey and Turkey share the same name?",
+        "context":""
+    },
+    {
+        "qid":"75_2",
+        "ori_q":"Where are turkeys from?",
+        "rew_q":"Where are turkeys from?",
+        "context":"Why do turkey and Turkey share the same name? . Where are turkeys from?"
+    },
+    {
+        "qid":"75_3",
+        "ori_q":"What was their importance in native cultures?",
+        "rew_q":"What was the importance of turkey in native cultures?",
+        "context":"Why do turkey and Turkey share the same name? . Where are turkeys from? . What was their importance in native cultures?"
+    },
+    {
+        "qid":"75_4",
+        "ori_q":"When and how were they domesticated?",
+        "rew_q":"When and how were turkeys domesticated?",
+        "context":"Why do turkey and Turkey share the same name? . Where are turkeys from? . What was their importance in native cultures? . When and how were they domesticated?"
+    },
+    {
+        "qid":"75_5",
+        "ori_q":"Can they fly?",
+        "rew_q":"Can turkeys fly?",
+        "context":"Why do turkey and Turkey share the same name? . Where are turkeys from? . What was their importance in native cultures? . When and how were they domesticated? . Can they fly?"
+    },
+    {
+        "qid":"75_6",
+        "ori_q":"Why did Ben Franklin want it to be the national symbol?",
+        "rew_q":"Why did Ben Franklin want turkey to be the national symbol?",
+        "context":"Why do turkey and Turkey share the same name? . Where are turkeys from? . What was their importance in native cultures? . When and how were they domesticated? . Can they fly? . Why did Ben Franklin want it to be the national symbol?"
+    },
+    {
+        "qid":"75_8",
+        "ori_q":"Why is it eaten on Thanksgiving?",
+        "rew_q":"Why is turkey eaten on Thanksgiving?",
+        "context":"Why do turkey and Turkey share the same name? . Where are turkeys from? . What was their importance in native cultures? . When and how were they domesticated? . Can they fly? . Why did Ben Franklin want it to be the national symbol? . Why is it eaten on Thanksgiving?"
+    },
+    {
+        "qid":"77_1",
+        "ori_q":"What's the difference between soup and stew?",
+        "rew_q":"What's the difference between soup and stew?",
+        "context":""
+    },
+    {
+        "qid":"77_2",
+        "ori_q":"Is chilli a stew?",
+        "rew_q":"Is chilli a stew?",
+        "context":"What's the difference between soup and stew? . Is chilli a stew?"
+    },
+    {
+        "qid":"77_3",
+        "ori_q":"How about goulash?",
+        "rew_q":"Is goulash a stew?",
+        "context":"What's the difference between soup and stew? . Is chilli a stew? . How about goulash?"
+    },
+    {
+        "qid":"77_4",
+        "ori_q":"What are popular ones in France?",
+        "rew_q":"What are popular stews in France?",
+        "context":"What's the difference between soup and stew? . Is chilli a stew? . How about goulash? . What are popular ones in France?"
+    },
+    {
+        "qid":"77_5",
+        "ori_q":"How is cassoulet made?",
+        "rew_q":"How is cassoulet made?",
+        "context":"What's the difference between soup and stew? . Is chilli a stew? . How about goulash? . What are popular ones in France? . How is cassoulet made?"
+    },
+    {
+        "qid":"77_6",
+        "ori_q":"Tell me about feijoada and its significance.",
+        "rew_q":"Tell me about feijoada and its significance.",
+        "context":"What's the difference between soup and stew? . Is chilli a stew? . How about goulash? . What are popular ones in France? . How is cassoulet made? . Tell me about feijoada and its significance."
+    },
+    {
+        "qid":"77_7",
+        "ori_q":"How is it similar or different from cassoulet?",
+        "rew_q":"How is feijoada similar or different from cassoulet?",
+        "context":"What's the difference between soup and stew? . Is chilli a stew? . How about goulash? . What are popular ones in France? . How is cassoulet made? . Tell me about feijoada and its significance. . How is it similar or different from cassoulet?"
+    },
+    {
+        "qid":"77_8",
+        "ori_q":"Tell about Bigos stew.",
+        "rew_q":"Tell about Bigos stew.",
+        "context":"What's the difference between soup and stew? . Is chilli a stew? . How about goulash? . What are popular ones in France? . How is cassoulet made? . Tell me about feijoada and its significance. . How is it similar or different from cassoulet? . Tell about Bigos stew."
+    },
+    {
+        "qid":"78_1",
+        "ori_q":"What is the keto diet?",
+        "rew_q":"What is the keto diet?",
+        "context":""
+    },
+    {
+        "qid":"78_2",
+        "ori_q":"Why was it original developed?",
+        "rew_q":"Why was keto diet originally developed?",
+        "context":"What is the keto diet? . Why was it original developed?"
+    },
+    {
+        "qid":"78_3",
+        "ori_q":"What is ketosis?",
+        "rew_q":"What is ketosis?",
+        "context":"What is the keto diet? . Why was it original developed? . What is ketosis?"
+    },
+    {
+        "qid":"78_4",
+        "ori_q":"What is paleo?",
+        "rew_q":"What is paleo diet?",
+        "context":"What is the keto diet? . Why was it original developed? . What is ketosis? . What is paleo?"
+    },
+    {
+        "qid":"78_5",
+        "ori_q":"What do they have in common?",
+        "rew_q":"What do paleo diet and keto diet have in common?",
+        "context":"What is the keto diet? . Why was it original developed? . What is ketosis? . What is paleo? . What do they have in common?"
+    },
+    {
+        "qid":"78_6",
+        "ori_q":"How are they different?",
+        "rew_q":"How are paleo diet and keto diet different?",
+        "context":"What is the keto diet? . Why was it original developed? . What is ketosis? . What is paleo? . What do they have in common? . How are they different?"
+    },
+    {
+        "qid":"78_7",
+        "ori_q":"What is intermittent fasting?",
+        "rew_q":"What is intermittent fasting?",
+        "context":"What is the keto diet? . Why was it original developed? . What is ketosis? . What is paleo? . What do they have in common? . How are they different? . What is intermittent fasting?"
+    },
+    {
+        "qid":"78_8",
+        "ori_q":"How is it related to keto?",
+        "rew_q":"How is intermittent fasting related to keto?",
+        "context":"What is the keto diet? . Why was it original developed? . What is ketosis? . What is paleo? . What do they have in common? . How are they different? . What is intermittent fasting? . How is it related to keto?"
+    },
+    {
+        "qid":"79_1",
+        "ori_q":"What is taught in sociology?",
+        "rew_q":"What is taught in sociology?",
+        "context":""
+    },
+    {
+        "qid":"79_2",
+        "ori_q":"What is the main contribution of Auguste Comte?",
+        "rew_q":"What is the main contribution of Auguste Comte to sociology?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte?"
+    },
+    {
+        "qid":"79_3",
+        "ori_q":"What is the role of positivism in it?",
+        "rew_q":"What is the role of positivism in sociology?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte? . What is the role of positivism in it?"
+    },
+    {
+        "qid":"79_4",
+        "ori_q":"What is Herbert Spencer known for?",
+        "rew_q":"What is Herbert Spencer known for in sociology?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte? . What is the role of positivism in it? . What is Herbert Spencer known for?"
+    },
+    {
+        "qid":"79_5",
+        "ori_q":"How is his work related to Comte?",
+        "rew_q":"How is Herbert Spencer's work related to Comte?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte? . What is the role of positivism in it? . What is Herbert Spencer known for? . How is his work related to Comte?"
+    },
+    {
+        "qid":"79_6",
+        "ori_q":"What is the functionalist theory?",
+        "rew_q":"What is the functionalist theory in sociology?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte? . What is the role of positivism in it? . What is Herbert Spencer known for? . How is his work related to Comte? . What is the functionalist theory?"
+    },
+    {
+        "qid":"79_7",
+        "ori_q":"What is its main criticism?",
+        "rew_q":"What is the main criticism of functionalist theory in sociology?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte? . What is the role of positivism in it? . What is Herbert Spencer known for? . How is his work related to Comte? . What is the functionalist theory? . What is its main criticism?"
+    },
+    {
+        "qid":"79_8",
+        "ori_q":"How does it compare to conflict theory?",
+        "rew_q":"How does functionalist theory compare to conflict theory?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte? . What is the role of positivism in it? . What is Herbert Spencer known for? . How is his work related to Comte? . What is the functionalist theory? . What is its main criticism? . How does it compare to conflict theory?"
+    },
+    {
+        "qid":"79_9",
+        "ori_q":"What are modern examples of conflict theory?",
+        "rew_q":"What are modern examples of conflict theory?",
+        "context":"What is taught in sociology? . What is the main contribution of Auguste Comte? . What is the role of positivism in it? . What is Herbert Spencer known for? . How is his work related to Comte? . What is the functionalist theory? . What is its main criticism? . How does it compare to conflict theory? . What are modern examples of conflict theory?"
+    }
+]
