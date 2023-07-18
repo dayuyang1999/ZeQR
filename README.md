@@ -90,3 +90,16 @@ conda activate zeqr
 
 Please contact me via email (dayu ant udel dot edu) if you have any question. Thanks!
 
+
+
+---
+
+# ChatGPT Compatibility
+
+Our framework is designed for adaptability, enabling easy integration with various Machine Reading Comprehension (MRC) and Question Answering (QA) models, including large ones like ChatGPT. While we've implemented MRC, the goal is to enable researchers to fully utilize the system independently, without needing external resources. It allows training MRC models using standard datasets like SQuAD on consumer-level GPUs in about an hour.
+
+We've included results from experiments using ChatGPT in the Appendix, showing performance nearing human capabilities.
+
+Please use `ChatGPT/eval_step_multicompare.ipynb` to see the experiment result for replacing MRC model as ChatGPT. 
+
+![ChatGPT as Language Model used in ZeQR](properties/chatgpt_performance.png)
